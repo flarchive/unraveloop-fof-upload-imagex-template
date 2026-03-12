@@ -1,0 +1,9 @@
+# 绝对不能提交 npm 的依赖包（体积巨大且无用）
+/node_modules/
+
+# 忽略 npm 报错日志
+npm-debug.log*
+yarn-error.log*
+
+# ⚠️ 注意：这里千万不要写 /dist/！
+# 因为你的用户不会去跑 npm build，他们需要直接使用你编译好的 dist 里的文件！
