@@ -1,0 +1,31 @@
+{
+    "name": "unraveloop/fof-upload-imagex-template",
+    "description": "A custom Volcengine ImageX template for FoF Upload in Flarum.",
+    "type": "flarum-extension",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "unraveloop"
+        }
+    ],
+    "require": {
+        "flarum/core": "^1.0.0",
+        "fof/upload": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Unraveloop\\ImageXTemplate\\": "src/"
+        }
+    },
+    "extra": {
+        "flarum-extension": {
+            "title": "FoF Upload - ImageX Template",
+            "category": "feature",
+            "icon": {
+                "name": "fas fa-image",
+                "backgroundColor": "#FF4500",
+                "color": "#fff"
+            }
+        }
+    }
+}
