@@ -2,13 +2,14 @@
 
 > **Read-only archive of released versions of unraveloop/fof-upload-imagex-template.** Not for installation: use [Packagist](https://packagist.org/packages/unraveloop/fof-upload-imagex-template) or the [upstream repository](https://github.com/unraveloop/fof-upload-imagex-template).
 
-**0** versions archived · Latest: [`1.0.1`](https://github.com/flarchive/unraveloop-fof-upload-imagex-template/tree/archive/v1.0.1) · License: `MIT` · Flarum: `^1.0.0`
+**2** versions archived · Latest: [`1.0.1`](https://github.com/flarchive/unraveloop-fof-upload-imagex-template/tree/archive/v1.0.1) · License: `MIT` · Flarum: `^1.0.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0.0` | 2026-03-12 | `^1.0.0` | [Browse](https://github.com/flarchive/unraveloop-fof-upload-imagex-template/tree/archive/v1.0.0) |
+| `1.0.1` | 2026-03-12 | `^1.0.0` | [Browse](https://github.com/flarchive/unraveloop-fof-upload-imagex-template/tree/archive/v1.0.1) |
 
 Catalog entry: [packages/unraveloop-fof-upload-imagex-template.json](https://github.com/flarchive/archive-index/blob/main/packages/unraveloop-fof-upload-imagex-template.json)
 
